@@ -1,34 +1,65 @@
-Sales Data Analysis Dashboard
+DATA SCIENCE & DATA ANALYTICS INTERNSHIP PROJECTS
 
-Project Overview
-
-This project analyzes a retail sales dataset using Excel to identify trends and business insights.
-
+This repository contains projects completed during the Future Interns Data Science & Analytics Internship.
 Tools Used
-
 - Microsoft Excel
-- Pivot Tables
 - Data Visualization
+- Pivot Tables
+- Data Cleaning
+- GitHub for project submission
 
-Analysis Performed
+Task 1: Sales Data Analysis Dashboard
+Objective
+Analyze sales data to identify revenue trends, top-selling product categories, and regional performance.
 
-- Monthly Revenue Trend
-- Top Selling Products
-- Sales by Category
-- Sales by Region
+Key Analysis
+- Revenue trend by month
+- Top-selling product categories
+- Regional sales performance
+- Interactive dashboard
+ 
+Insights
+- Certain months show higher revenue due to seasonal demand.
+- Some product categories consistently outperform others.
+- Regional analysis reveals high-performing markets.
 
-Dashboard
+Task 2: Customer Churn Analysis
+Objective
+Analyze customer data to identify patterns and factors contributing to customer churn.
 
-A visual dashboard was created to present the key insights from the dataset.
+Key Analysis
+- Churn rate distribution
+- Customer demographics analysis
+- Service usage impact on churn
+- Churn visualization dashboard
 
-Key Insights
+Insights
+- Customers with lower engagement show higher churn probability.
+- Certain customer segments are more likely to churn.
+- Service usage significantly affects retention.
 
-- Technology category generated the highest revenue.
-- The West region contributed the highest sales.
-- A few top products account for a large portion of revenue.
-- Sales increase toward the end of the year.
 
-Files Included
+Task 3: Marketing Funnel & Conversion Analysis
+Objective
+Evaluate marketing channel effectiveness and conversion performance.
 
-- Excel Dashboard File
-- Dashboard Screenshot
+Key Analysis
+- Funnel stages: Visitors → Leads → Signups → Customers
+- Conversion rate analysis
+- Channel performance comparison
+
+Insights
+- Email marketing generates the highest number of customers.
+- Social media brings the highest traffic but lower conversion rates.
+- Significant drop occurs between visitors and leads.
+
+
+Conclusion
+These projects demonstrate practical skills in:
+- Data analysis
+- Data visualization
+- Dashboard creation
+- Business insight generation
+Author
+
+Data Science & Analytics Intern
